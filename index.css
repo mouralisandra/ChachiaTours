@@ -1,0 +1,1597 @@
+.chachia-tours {
+  position: absolute;
+  top: 91px;
+  left: 293px;
+  display: inline-block;
+  width: 537px;
+  height: 137px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.about-us,
+.contact,
+.home,
+.packages,
+.tours {
+  text-decoration: none;
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-base);
+  font-weight: 300;
+  font-family: var(--font-work-sans);
+  color: var(--color-black);
+  text-align: left;
+}
+.about-us,
+.contact,
+.packages,
+.tours {
+  left: 106px;
+}
+.about-us,
+.contact,
+.tours {
+  left: 236px;
+}
+.about-us,
+.contact {
+  left: 346px;
+}
+.contact {
+  left: 484px;
+}
+.copyright-2023,
+.footerlinks {
+  position: absolute;
+  top: 258px;
+  left: 153px;
+  width: 543px;
+  height: 19px;
+}
+.copyright-2023 {
+  top: 323px;
+  left: 272px;
+  font-size: var(--font-size-xs);
+  font-weight: 200;
+  font-family: var(--font-work-sans);
+  display: inline-block;
+  width: 320px;
+  height: 22px;
+}
+.chachia-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 397px;
+  height: 334px;
+  object-fit: cover;
+}
+.footer {
+  position: absolute;
+  top: 3993px;
+  left: 179px;
+  width: 830px;
+  height: 345px;
+  text-align: left;
+  font-size: 128px;
+  color: var(--color-black);
+  font-family: var(--font-allison);
+}
+.newsletterform-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-gray-300);
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.25);
+  width: 477px;
+  height: 538px;
+}
+.stay-up-to-date-with {
+  top: 137px;
+  left: 76px;
+  font-weight: 200;
+  width: 330px;
+  height: 69px;
+}
+.newsletter1,
+.stay-up-to-date-with,
+.subscribe {
+  position: absolute;
+  display: inline-block;
+}
+.subscribe {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 455px;
+  left: 205px;
+  font-size: var(--font-size-base);
+  font-weight: 300;
+  font-family: var(--font-work-sans);
+  color: var(--color-black);
+  text-align: center;
+}
+.newsletter1 {
+  top: 99px;
+  left: 144px;
+  font-size: 24px;
+  font-family: var(--font-abril-fatface);
+  color: var(--color-gray-100);
+  width: 208px;
+  height: 27px;
+}
+.newsletterform-inner,
+.newsletterform-item {
+  border: 0;
+  background-color: var(--color-gray-400);
+  position: absolute;
+  top: 218px;
+  left: 72px;
+  width: 351px;
+  height: 43px;
+}
+.newsletterform-inner {
+  top: 297px;
+}
+.newsletterform {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 477px;
+  height: 538px;
+}
+.discover-the-most,
+.our-top-10 {
+  position: absolute;
+  color: var(--color-black);
+  display: inline-block;
+}
+.our-top-10 {
+  top: 0;
+  left: 50px;
+  font-size: 35px;
+  font-family: var(--font-grape-nuts);
+  width: 416px;
+  height: 38px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.discover-the-most {
+  top: 59px;
+  left: 0;
+  font-size: var(--font-size-xl);
+  font-weight: 200;
+  font-family: var(--font-work-sans);
+  text-align: center;
+  width: 446px;
+  height: 67px;
+}
+.attractions,
+.resorts,
+.top-10-attractions,
+.top-5-resorts {
+  position: absolute;
+  top: 184px;
+  left: 145px;
+  display: inline-block;
+  width: 73.43px;
+}
+.resorts,
+.top-10-attractions,
+.top-5-resorts {
+  top: 203px;
+  width: 87px;
+}
+.resorts,
+.top-5-resorts {
+  top: 315px;
+  width: 73.43px;
+}
+.top-5-resorts {
+  top: 333px;
+}
+.beaches {
+  top: 465px;
+  left: 148px;
+}
+.beaches,
+.hotels,
+.landmarks,
+.top-10-beaches,
+.top-10-hotels {
+  position: absolute;
+  display: inline-block;
+  width: 73.43px;
+}
+.top-10-beaches {
+  top: 484px;
+  left: 148px;
+  font-weight: 300;
+}
+.hotels,
+.landmarks,
+.top-10-hotels {
+  top: 190px;
+  left: 373px;
+}
+.landmarks,
+.top-10-hotels {
+  top: 209px;
+  width: 87px;
+}
+.landmarks {
+  top: 315px;
+  width: 73.43px;
+}
+.restaurants,
+.top-10-landmarks,
+.top-10-restaurants {
+  position: absolute;
+  top: 334px;
+  left: 373px;
+  display: inline-block;
+  width: 87px;
+}
+.restaurants,
+.top-10-restaurants {
+  top: 467px;
+  left: 379px;
+  width: 73.43px;
+}
+.top-10-restaurants {
+  top: 486px;
+  width: 87px;
+}
+.image-21-icon,
+.image-22-icon {
+  position: absolute;
+  top: 143px;
+  left: 236px;
+  width: 125px;
+  height: 118px;
+  object-fit: cover;
+}
+.image-22-icon {
+  top: 419px;
+  height: 114px;
+}
+.image-18-icon,
+.image-23-icon,
+.image-24-icon,
+.image-25-icon {
+  position: absolute;
+  top: 419px;
+  left: 8px;
+  width: 127px;
+  height: 114px;
+  object-fit: cover;
+}
+.image-18-icon,
+.image-23-icon,
+.image-25-icon {
+  top: 278px;
+  height: 116px;
+}
+.image-18-icon,
+.image-23-icon {
+  top: 144px;
+  width: 125px;
+  height: 117px;
+}
+.image-23-icon {
+  top: 283px;
+  left: 236px;
+  width: 122px;
+  height: 115px;
+}
+.newsletterdesc {
+  position: absolute;
+  top: 0;
+  left: 558px;
+  width: 466px;
+  height: 533px;
+  text-align: left;
+  font-size: var(--font-size-xs);
+  color: var(--color-darkslategray);
+  font-family: var(--font-alegreya-sans);
+}
+.have-an-adventure,
+.newsletter {
+  position: absolute;
+  text-align: center;
+}
+.newsletter {
+  top: 3107px;
+  left: 84px;
+  width: 1024px;
+  height: 538px;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-work-sans);
+}
+.have-an-adventure {
+  top: 0;
+  left: 196px;
+  font-size: var(--font-size-21xl);
+  display: inline-block;
+  width: 627.06px;
+  height: 38.11px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.camping-icon {
+  position: absolute;
+  top: 0;
+  left: 1px;
+  width: 298px;
+  height: 217px;
+  object-fit: cover;
+}
+.camping-child {
+  border: 0;
+  background-color: var(--color-gray-200);
+  position: absolute;
+  top: 166px;
+  left: 0;
+  width: 240px;
+  height: 51px;
+}
+.camping1 {
+  position: absolute;
+  top: 180px;
+  left: 18px;
+  -webkit-text-stroke: 0.2px #000;
+}
+.link-child,
+.link-item {
+  position: absolute;
+  top: 10.36px;
+  left: 9.86px;
+  width: 6.39px;
+  height: 7.78px;
+}
+.link-item {
+  top: 4.65px;
+  left: 8.94px;
+  width: 6.52px;
+  height: 6.52px;
+}
+.link,
+.link-inner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 23px;
+  height: 23px;
+}
+.link {
+  text-decoration: none;
+  top: 166px;
+  left: 257px;
+}
+.camping,
+.scuba-icon {
+  position: absolute;
+  top: 83px;
+  left: 716px;
+  width: 299px;
+  height: 217px;
+}
+.scuba-icon {
+  top: 0;
+  left: 0;
+  height: 212px;
+  object-fit: cover;
+}
+.scubadiving-child {
+  border: 0;
+  background-color: var(--color-gray-200);
+  position: absolute;
+  top: 153px;
+  left: 0;
+  width: 236px;
+  height: 59px;
+}
+.scuba-diving {
+  position: absolute;
+  top: 170px;
+  left: 18px;
+  -webkit-text-stroke: 0.2px #000;
+}
+.link1 {
+  text-decoration: none;
+  position: absolute;
+  top: 162px;
+  left: 256px;
+  width: 23px;
+  height: 23px;
+}
+.scubadiving {
+  position: absolute;
+  top: 336px;
+  left: 716px;
+  width: 299px;
+  height: 212px;
+}
+.watersports-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 294px;
+  height: 215px;
+  object-fit: cover;
+}
+.watersports-child {
+  position: absolute;
+  top: 164px;
+  left: 0;
+  width: 239px;
+  height: 51px;
+}
+.water-sports {
+  position: absolute;
+  top: 178px;
+  left: 21px;
+  -webkit-text-stroke: 0.2px #000;
+}
+.link2 {
+  text-decoration: none;
+  position: absolute;
+  top: 157px;
+  left: 254px;
+  width: 23px;
+  height: 23px;
+}
+.museum-icon,
+.watersports {
+  position: absolute;
+  top: 85px;
+  left: 381px;
+  width: 294px;
+  height: 215px;
+}
+.museum-icon {
+  top: 0;
+  left: 0;
+  height: 208px;
+  object-fit: cover;
+}
+.museemvisits-child {
+  border: 0;
+  background-color: var(--color-gray-200);
+  position: absolute;
+  top: 153px;
+  left: 0;
+  width: 239px;
+  height: 55px;
+}
+.museum-visits {
+  position: absolute;
+  top: 172px;
+  left: 21px;
+  -webkit-text-stroke: 0.2px #000;
+}
+.link3 {
+  text-decoration: none;
+  position: absolute;
+  top: 160px;
+  left: 256px;
+  width: 23px;
+  height: 23px;
+}
+.museemvisits,
+.skydiving-icon {
+  position: absolute;
+  top: 336px;
+  left: 381px;
+  width: 294px;
+  height: 208px;
+}
+.skydiving-icon {
+  top: 0;
+  left: 0;
+  width: 347px;
+  height: 463px;
+  object-fit: cover;
+}
+.skydiving-child {
+  border: 0;
+  background-color: var(--color-gray-200);
+  position: absolute;
+  top: 404px;
+  left: 0;
+  width: 239px;
+  height: 58px;
+}
+.link-child8,
+.link-child9 {
+  position: absolute;
+  top: 19.37px;
+  left: 18.43px;
+  width: 11.27px;
+  height: 14px;
+}
+.link-child9 {
+  top: 8.7px;
+  left: 17.32px;
+  width: 11.57px;
+  height: 11.57px;
+}
+.link-child10,
+.link4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 43px;
+  height: 43px;
+}
+.link4 {
+  text-decoration: none;
+  top: 395px;
+  left: 276px;
+}
+.skydiving1 {
+  position: absolute;
+  top: 421px;
+  left: 16px;
+  -webkit-text-stroke: 0.2px #000;
+}
+.adventure,
+.skydiving {
+  position: absolute;
+  top: 85px;
+  left: 0;
+  width: 347px;
+  height: 463px;
+}
+.adventure {
+  top: 2429px;
+  left: 84px;
+  width: 1015px;
+  height: 548px;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-grape-nuts);
+}
+.lookingforexp-child {
+  position: absolute;
+  top: 0;
+  left: 21px;
+  width: 1232px;
+  height: 219px;
+}
+.buttonviewpackages-child {
+  cursor: pointer;
+  border: 1px solid var(--color-white);
+  padding: 0;
+  background-color: var(--color-darkcyan);
+  position: absolute;
+  top: -1px;
+  left: -1px;
+  box-sizing: border-box;
+  width: 109px;
+  height: 26px;
+}
+.buttonviewpackages,
+.view-packages {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+}
+.view-packages {
+  top: 7px;
+  left: 12px;
+  font-size: var(--font-size-3xs);
+  font-family: var(--font-work-sans);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+  width: 87.55px;
+  height: 9.6px;
+}
+.buttonviewpackages {
+  top: 176px;
+  left: 911px;
+  box-shadow: 0 0 20px rgba(255, 255, 255, 0.25);
+  width: 107px;
+  height: 24px;
+}
+.are-you-ready,
+.looking-for-an {
+  position: absolute;
+  display: inline-block;
+}
+.are-you-ready {
+  top: 107px;
+  left: 244px;
+  font-weight: 300;
+  width: 771px;
+  height: 45px;
+}
+.looking-for-an {
+  top: 36px;
+  left: 413px;
+  font-size: var(--font-size-21xl);
+  font-family: var(--font-grape-nuts);
+  text-align: left;
+  width: 511px;
+  height: 38px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.lookingforexp,
+.why-us {
+  position: absolute;
+  top: 3754px;
+  left: -21px;
+  width: 1232px;
+  height: 219px;
+}
+.why-us {
+  top: 0;
+  left: 217px;
+  font-size: var(--font-size-21xl);
+  font-family: var(--font-grape-nuts);
+  display: inline-block;
+  width: 627.06px;
+  height: 38.11px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.guarantee-child {
+  position: absolute;
+  top: 1px;
+  left: 0;
+  background-color: var(--color-gray-300);
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.25);
+  width: 288px;
+  height: 297px;
+}
+.guarantee1,
+.ou-travel-agency {
+  position: absolute;
+  display: inline-block;
+  width: 233px;
+}
+.ou-travel-agency {
+  top: 87px;
+  left: 28px;
+  font-weight: 200;
+  height: 144px;
+}
+.guarantee1 {
+  top: 27px;
+  left: 24px;
+  font-family: var(--font-abril-fatface);
+  color: var(--color-gray-100);
+  height: 25px;
+}
+.tablercircle-triangle-icon {
+  position: absolute;
+  top: 0;
+  left: 127px;
+  width: 27px;
+  height: 27px;
+  overflow: hidden;
+}
+.guarantee,
+.service-child {
+  position: absolute;
+  left: 0;
+  width: 288px;
+}
+.guarantee {
+  top: 89px;
+  height: 298px;
+  font-family: var(--font-work-sans);
+}
+.service-child {
+  top: 3px;
+  background-color: var(--color-gray-300);
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.25);
+  height: 297px;
+}
+.service1,
+.we-provide-personalized {
+  position: absolute;
+  top: 28px;
+  left: 38px;
+  display: inline-block;
+  width: 208px;
+  height: 23px;
+}
+.we-provide-personalized {
+  border: 0;
+  background-color: transparent;
+  font-weight: 200;
+  font-family: var(--font-work-sans);
+  font-size: var(--font-size-xl);
+  top: 88px;
+  left: 10px;
+  color: var(--color-black);
+  text-align: center;
+  width: 264px;
+  height: 128px;
+}
+.mdicrown-outline-icon {
+  position: absolute;
+  top: 0;
+  left: 127px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.experience-child,
+.service {
+  position: absolute;
+  width: 288px;
+}
+.service {
+  top: 88px;
+  left: 359px;
+  height: 300px;
+  color: var(--color-gray-100);
+}
+.experience-child {
+  top: 4px;
+  left: 0;
+  background-color: var(--color-gray-300);
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.25);
+  height: 297px;
+}
+.experience1,
+.our-travel-agency {
+  position: absolute;
+  top: 32px;
+  left: 47px;
+  display: inline-block;
+  width: 208px;
+  height: 23px;
+}
+.our-travel-agency {
+  border: 0;
+  background-color: transparent;
+  font-weight: 200;
+  font-family: var(--font-work-sans);
+  font-size: var(--font-size-xl);
+  top: 77px;
+  left: 13px;
+  color: var(--color-black);
+  text-align: center;
+  width: 270px;
+  height: 128px;
+}
+.mdiruler-square-compass-icon {
+  position: absolute;
+  top: 0;
+  left: 139px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.experience,
+.whyus {
+  position: absolute;
+  top: 84px;
+  left: 718px;
+  width: 288px;
+  height: 301px;
+  color: var(--color-gray-100);
+}
+.whyus {
+  top: 1963px;
+  left: 93px;
+  width: 1006px;
+  height: 388px;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-abril-fatface);
+}
+.sahara-child {
+  position: absolute;
+  top: 5px;
+  left: 0;
+  background-color: var(--color-gray-200);
+  width: 230px;
+  height: 290px;
+}
+.sahara1 {
+  position: absolute;
+  top: 225px;
+  left: 22px;
+  font-family: var(--font-grape-nuts);
+  -webkit-text-stroke: 0.2px #000;
+}
+.div,
+.explore-sand-dunes,
+.per-person {
+  position: absolute;
+  top: 247px;
+  left: 22px;
+  font-size: var(--font-size-3xs);
+  font-weight: 200;
+  display: inline-block;
+  width: 129px;
+  height: 88px;
+}
+.div,
+.per-person {
+  top: 255px;
+  left: 188px;
+  font-size: var(--font-size-7xs);
+  font-weight: 100;
+  width: 97px;
+  height: 31px;
+}
+.div {
+  top: 235px;
+  left: 156px;
+  font-size: var(--font-size-xl);
+  width: 270px;
+  height: 9px;
+}
+.sahara-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 230px;
+  height: 219px;
+  object-fit: cover;
+}
+.djerba-child,
+.sahara {
+  position: absolute;
+  top: 71px;
+  left: 818px;
+  width: 426px;
+  height: 335px;
+}
+.djerba-child {
+  top: 1px;
+  left: 0;
+  background-color: var(--color-gray-200);
+  width: 230px;
+  height: 290px;
+}
+.djerba1 {
+  position: absolute;
+  top: 221px;
+  left: 21px;
+  font-family: var(--font-grape-nuts);
+  -webkit-text-stroke: 0.2px #000;
+}
+.stunning-beaches-rich {
+  position: absolute;
+  top: 243px;
+  left: 21px;
+  font-size: var(--font-size-3xs);
+  font-weight: 200;
+  display: inline-block;
+  width: 129px;
+}
+.div1,
+.per-person1 {
+  position: absolute;
+  font-weight: 100;
+  display: inline-block;
+}
+.per-person1 {
+  border: 0;
+  font-family: var(--font-work-sans);
+  font-size: var(--font-size-7xs);
+  background-color: transparent;
+  top: 254px;
+  left: 193px;
+  color: var(--color-black);
+  text-align: left;
+  width: 97px;
+  height: 31px;
+}
+.div1 {
+  top: 234px;
+  left: 161px;
+  font-size: var(--font-size-xl);
+  width: 270px;
+  height: 9px;
+}
+.djerba-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 230px;
+  height: 214px;
+  object-fit: cover;
+}
+.bizerte-child,
+.djerba {
+  position: absolute;
+  top: 73px;
+  left: 50px;
+  width: 431px;
+  height: 291px;
+}
+.bizerte-child {
+  top: 2px;
+  left: 0;
+  background-color: var(--color-gray-200);
+  width: 230px;
+  height: 290px;
+}
+.bizerte1 {
+  position: absolute;
+  top: 222px;
+  left: 20px;
+  font-family: var(--font-grape-nuts);
+  -webkit-text-stroke: 0.2px #000;
+}
+.the-charming-coastal {
+  position: absolute;
+  top: 244px;
+  left: 20px;
+  font-size: var(--font-size-3xs);
+  font-weight: 200;
+  display: inline-block;
+  width: 129px;
+  height: 88px;
+}
+.div2,
+.per-person2 {
+  position: absolute;
+  font-weight: 100;
+  display: inline-block;
+}
+.per-person2 {
+  border: 0;
+  font-family: var(--font-work-sans);
+  font-size: var(--font-size-7xs);
+  background-color: transparent;
+  top: 254px;
+  left: 196px;
+  color: var(--color-black);
+  text-align: left;
+  width: 97px;
+  height: 31px;
+}
+.div2 {
+  top: 234px;
+  left: 164px;
+  font-size: var(--font-size-xl);
+  width: 270px;
+  height: 9px;
+}
+.bizerte-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 230px;
+  height: 213px;
+  object-fit: cover;
+}
+.bizerte {
+  position: absolute;
+  top: 73px;
+  left: 306px;
+  width: 434px;
+  height: 332px;
+}
+.div3,
+.per-person3 {
+  position: absolute;
+  top: 255px;
+  left: 192px;
+  font-size: var(--font-size-7xs);
+  font-weight: 100;
+  display: inline-block;
+  width: 97px;
+  height: 31px;
+}
+.div3 {
+  top: 235px;
+  left: 160px;
+  font-size: var(--font-size-xl);
+  width: 270px;
+  height: 9px;
+}
+.jammel-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 230px;
+  height: 215px;
+  object-fit: cover;
+}
+.arrowleft-child,
+.jammel {
+  position: absolute;
+  top: 71px;
+  left: 562px;
+  width: 430px;
+  height: 332px;
+}
+.arrowleft-child {
+  top: 0;
+  left: 0;
+  background-color: var(--color-gray-500);
+  width: 40px;
+  height: 40px;
+  transform: rotate(180deg);
+  transform-origin: 0 0;
+}
+.arrowleft-inner,
+.arrowleft-item {
+  position: absolute;
+  top: -19.76px;
+  left: -29.79px;
+  width: 16.82px;
+  height: 15.8px;
+}
+.arrowleft-inner {
+  top: -33.97px;
+  left: -27.85px;
+  width: 16.33px;
+  height: 16.32px;
+}
+.arrowleft,
+.arrowright-child {
+  position: absolute;
+  width: 40px;
+  height: 40px;
+}
+.arrowleft {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 238px;
+  left: 40px;
+  transform: rotate(180deg);
+  transform-origin: 0 0;
+}
+.arrowright-child {
+  top: 0;
+  left: 0;
+  background-color: var(--color-gray-500);
+}
+.arrowright-item {
+  position: absolute;
+  top: 3.97px;
+  left: 12.97px;
+  width: 16.82px;
+  height: 15.8px;
+}
+.arrowright,
+.arrowright-inner {
+  position: absolute;
+  top: 17.64px;
+  left: 11.53px;
+  width: 16.33px;
+  height: 16.32px;
+}
+.arrowright {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 198px;
+  left: 1062px;
+  width: 40px;
+  height: 40px;
+}
+.popular-destinations {
+  position: absolute;
+  top: 0;
+  left: 243px;
+  font-size: var(--font-size-21xl);
+  font-family: var(--font-grape-nuts);
+  text-align: center;
+  display: inline-block;
+  width: 627.06px;
+  height: 38.11px;
+  text-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.populardestinations {
+  position: absolute;
+  top: 781px;
+  left: 42px;
+  width: 1244px;
+  height: 406px;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-black);
+  font-family: var(--font-work-sans);
+}
+.image-1-icon,
+.navbar2-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.image-1-icon {
+  width: 1197px;
+  height: 663px;
+  object-fit: cover;
+}
+.navbar2-child {
+  background-color: var(--color-darkcyan);
+  width: 389.92px;
+  height: 34px;
+}
+.flights,
+.hotels1,
+.restaurants1,
+.tours1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 10.46px;
+  left: 25.35px;
+  font-size: var(--font-size-sm);
+  font-weight: 300;
+  font-family: var(--font-work-sans);
+  color: var(--color-white);
+  text-align: left;
+  display: inline-block;
+  width: 66.95px;
+  height: 12.41px;
+  -webkit-text-stroke: 0.2px #fff;
+}
+.hotels1,
+.restaurants1,
+.tours1 {
+  left: 113.76px;
+  width: 83.26px;
+}
+.restaurants1,
+.tours1 {
+  top: 10.26px;
+  left: 206.71px;
+  width: 54.08px;
+}
+.restaurants1 {
+  top: 10px;
+  left: 283.77px;
+  width: 120.23px;
+  height: 12px;
+}
+.navbar2 {
+  position: absolute;
+  top: 445px;
+  left: 416px;
+  box-shadow: 0 0 25px rgba(0, 0, 0, 0.25);
+  width: 404px;
+  height: 34px;
+}
+.your-dream-vacation {
+  position: absolute;
+  top: 217px;
+  left: 287px;
+  display: inline-block;
+  width: 629.69px;
+}
+.explore-tunisia-with {
+  position: absolute;
+  top: 282px;
+  left: 455px;
+  font-size: 32px;
+  font-family: var(--font-grape-nuts);
+  -webkit-text-stroke: 1px #fff;
+}
+.search-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: rgba(255, 255, 255, 0.8);
+  box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.25);
+  width: 662px;
+  height: 68px;
+}
+.departure-date {
+  border: 0;
+  font-family: var(--font-alegreya-sans);
+  font-size: var(--font-size-xs);
+  background-color: transparent;
+  position: absolute;
+  top: 8px;
+  left: 0;
+  color: var(--color-darkslategray);
+  text-align: left;
+  display: inline-block;
+  width: 73.43px;
+}
+.departure-child {
+  position: absolute;
+  top: -0.5px;
+  left: 376.71px;
+  border-right: 1px solid var(--color-silver);
+  box-sizing: border-box;
+  width: 1px;
+  height: 23px;
+}
+.departure {
+  top: 19px;
+  left: 250.94px;
+  width: 377.21px;
+  height: 22px;
+}
+.departure,
+.to-child,
+.to1 {
+  position: absolute;
+}
+.to1 {
+  top: 4px;
+  left: 11.4px;
+  font-size: var(--font-size-xs);
+  font-family: var(--font-alegreya-sans);
+  color: var(--color-darkslategray);
+  text-align: left;
+  display: inline-block;
+  width: 11.06px;
+}
+.to-child {
+  top: -0.5px;
+  left: 92.38px;
+  border-right: 1px solid var(--color-silver);
+  box-sizing: border-box;
+  width: 1px;
+  height: 23px;
+}
+.vector-icon {
+  position: absolute;
+  height: 50%;
+  width: 8.61%;
+  top: 22.73%;
+  right: 91.39%;
+  bottom: 27.27%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.to-item {
+  top: 6.82px;
+  left: 69.57px;
+  width: 15.13px;
+  height: 7.89px;
+}
+.from1,
+.to,
+.to-item {
+  position: absolute;
+}
+.to {
+  top: 23px;
+  left: 148px;
+  width: 92.88px;
+  height: 22px;
+}
+.from1 {
+  top: 5px;
+  left: 11.74px;
+  font-size: var(--font-size-xs);
+  font-family: var(--font-alegreya-sans);
+  color: var(--color-darkslategray);
+  text-align: left;
+  display: inline-block;
+  width: 24.14px;
+}
+.from-child {
+  position: absolute;
+  top: -0.5px;
+  left: 97.75px;
+  border-right: 1px solid var(--color-silver);
+  box-sizing: border-box;
+  width: 1px;
+  height: 23px;
+}
+.vector-icon1 {
+  position: absolute;
+  height: 50%;
+  width: 8.14%;
+  top: 22.73%;
+  right: 91.86%;
+  bottom: 27.27%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.arrow-child {
+  position: absolute;
+  top: -0.18px;
+  left: -0.18px;
+  width: 7.39px;
+  height: 7.35px;
+}
+.arrow-item {
+  top: 0.55px;
+  left: 6.88px;
+  width: 8.07px;
+  height: 6.6px;
+}
+.arrow,
+.arrow-item,
+.from {
+  position: absolute;
+}
+.arrow {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 7px;
+  left: 73.1px;
+  width: 14.79px;
+  height: 7.71px;
+}
+.from {
+  top: 23px;
+  left: 35px;
+  width: 98.25px;
+  height: 22px;
+}
+.return-date {
+  border: 0;
+  font-family: var(--font-alegreya-sans);
+  font-size: var(--font-size-xs);
+  background-color: transparent;
+  position: absolute;
+  top: 5px;
+  left: 26.76px;
+  color: var(--color-darkslategray);
+  text-align: left;
+  display: inline-block;
+  width: 57.34px;
+}
+.returndate-child,
+.returndate-item {
+  position: absolute;
+  top: 1.5px;
+  left: 16.2px;
+  border-right: 1px solid var(--color-silver);
+  box-sizing: border-box;
+  width: 1px;
+  height: 23px;
+}
+.returndate-item {
+  top: -0.5px;
+  left: 127.85px;
+}
+.vector-icon2 {
+  position: absolute;
+  height: 53.26%;
+  width: 9.35%;
+  top: 20.83%;
+  right: 90.65%;
+  bottom: 25.91%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.returndate {
+  position: absolute;
+  top: 21px;
+  left: 364px;
+  width: 128.35px;
+  height: 24px;
+}
+.travellers-class {
+  position: absolute;
+  top: 0;
+  left: 26.41px;
+  font-size: var(--font-size-xs);
+  font-family: var(--font-alegreya-sans);
+  color: var(--color-darkslategray);
+  text-align: left;
+  display: inline-block;
+  width: 80.47px;
+}
+.arrow1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 3px;
+  left: 131.02px;
+  width: 14.79px;
+  height: 7.71px;
+}
+.vector-icon3 {
+  position: absolute;
+  height: 91.3%;
+  width: 8.23%;
+  top: 7.14%;
+  right: 91.77%;
+  bottom: 1.55%;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.search,
+.travellerclass {
+  position: absolute;
+  top: 26px;
+  left: 476px;
+  width: 145.82px;
+  height: 14px;
+}
+.search {
+  top: 479px;
+  left: 285px;
+  width: 662px;
+  height: 68px;
+}
+.mdiinstagram-icon {
+  position: absolute;
+  top: 1px;
+  left: 0;
+  width: 24.14px;
+  height: 24px;
+  overflow: hidden;
+}
+.icoutline-email-icon,
+.material-symbolscall-icon {
+  position: absolute;
+  top: 2px;
+  left: 975.71px;
+  width: 18.11px;
+  height: 18px;
+  overflow: hidden;
+}
+.material-symbolscall-icon {
+  left: 846.96px;
+}
+.circumtwitter-icon,
+.iconoirfacebook {
+  position: absolute;
+  top: 0;
+  left: 41.24px;
+  width: 24.14px;
+  height: 24px;
+  overflow: hidden;
+}
+.iconoirfacebook {
+  top: 1px;
+  left: 74.44px;
+}
+.contactstartravelscom,
+.div4 {
+  position: absolute;
+  top: 4px;
+  left: 870.87px;
+  font-weight: 200;
+  display: inline-block;
+  width: 106px;
+  -webkit-text-stroke: 0.2px #fff;
+}
+.contactstartravelscom {
+  top: 3px;
+  left: 999.87px;
+  width: 137px;
+}
+.links {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1136.87px;
+  height: 25px;
+}
+.about-us1,
+.contact1,
+.home1,
+.packages1,
+.tours2 {
+  text-decoration: none;
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-size: var(--font-size-base);
+  font-family: var(--font-work-sans);
+  color: var(--color-white);
+  text-align: left;
+  -webkit-text-stroke: 0.2px #fff;
+}
+.about-us1,
+.contact1,
+.packages1,
+.tours2 {
+  left: 77px;
+}
+.about-us1,
+.contact1,
+.tours2 {
+  left: 186px;
+}
+.about-us1,
+.contact1 {
+  left: 267px;
+}
+.contact1 {
+  left: 371px;
+}
+.header,
+.navbar {
+  position: absolute;
+  top: 43px;
+  left: 340.87px;
+  width: 433px;
+  height: 19px;
+}
+.header {
+  top: 11px;
+  left: 41.13px;
+  width: 1136.87px;
+  height: 62px;
+  font-size: var(--font-size-xs);
+  font-family: var(--font-work-sans);
+}
+.acceuil {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1197px;
+  height: 663px;
+  text-align: left;
+  font-size: 48px;
+  color: var(--color-white);
+  font-family: var(--font-abril-fatface);
+}
+.image-5-icon,
+.image-6-icon,
+.image-7-icon {
+  position: absolute;
+  top: 0;
+  left: 4820px;
+  width: 1205px;
+  height: 604px;
+  object-fit: cover;
+}
+.image-6-icon,
+.image-7-icon {
+  left: 1205px;
+}
+.image-7-icon {
+  left: 3615px;
+}
+.image-8-icon {
+  top: 0;
+  left: 6px;
+  object-fit: cover;
+}
+.image-8-icon,
+.kobba,
+.wallpaperflare-1-icon {
+  position: absolute;
+  width: 1205px;
+  height: 604px;
+}
+.wallpaperflare-1-icon {
+  top: 0;
+  left: 2410px;
+  object-fit: cover;
+}
+.kobba {
+  top: 1240px;
+  left: -6px;
+  overflow: hidden;
+}
+.travel-company {
+  position: relative;
+  width: 100%;
+  height: 4338px;
+  overflow: hidden;
+  background-image: url(./public/travel-company@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+  font-family: var(--font-work-sans);
+}
